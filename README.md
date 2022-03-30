@@ -4,7 +4,8 @@ Contents
 --------
 - [Installation](#installation)
     - [Requirements](#requirements)
-    - 
+    - [What to do](#what to do)
+- [Plugins](#plugins)
 Installation
 ------------
 ## Requirements
@@ -19,7 +20,9 @@ Installation
 YCM requires CMake 3.13 or greater. If your CMake is too old, you may be able to
 simply `pip install --user cmake` to get a really new version.
 
-## Files to configurate vim.
+## What to do
+
+### Copy file
 
  - Copy _vim to ~/.vim
 
@@ -31,3 +34,5 @@ simply `pip install --user cmake` to get a really new version.
 $ cd ~/.vim/bundle/YouCompleteMe
 $ python3 ./install.py --all
 ```
+Plugins
+-------
