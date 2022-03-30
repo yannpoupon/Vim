@@ -25,10 +25,9 @@ simply `pip install --user cmake` to get a really new version.
 
 ## What to do
 
-### Copy file
+### Copy configuration files
 
  - Copy _vim to ~/.vim
-
  - Copy _vimrc to ~/.vimrc
 
 ### Activating YCM
