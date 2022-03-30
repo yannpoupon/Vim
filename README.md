@@ -23,7 +23,7 @@ Installation
 YCM requires CMake 3.13 or greater. If your CMake is too old, you may be able to
 simply `pip install --user cmake` to get a really new version.
 
-## What to do
+## What to do on Linux
 
 ### Copy configuration files
 
