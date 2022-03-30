@@ -4,8 +4,11 @@ Contents
 --------
 - [Installation](#installation)
     - [Requirements](#requirements)
-    - [What to do](#what to do)
-- [Plugins](#plugins)
+    - [What to do](#what-to-do)
+- [Configuration](#configuration)
+    - [Plugins](#plugins)
+    - [Shortcuts](#shortcuts)
+
 Installation
 ------------
 ## Requirements
@@ -34,5 +37,27 @@ simply `pip install --user cmake` to get a really new version.
 $ cd ~/.vim/bundle/YouCompleteMe
 $ python3 ./install.py --all
 ```
-Plugins
+Configuration
 -------
+## Plugins
+
+ - NERDTree : <https://github.com/preservim/nerdtree>.
+ - NERDCommenter : <https://github.com/preservim/nerdcommenter>.
+ - TagList : <https://github.com/vim-scripts/taglist.vim>.
+ - Rainbow bracket : <https://github.com/frazrepo/vim-rainbow>.
+ - Airline : <https://github.com/vim-airline/vim-airline>.
+ - gitGutter : <https://github.com/airblade/vim-gitgutter>.
+ - Syntastic : <https://github.com/scrooloose/syntastic>.
+ - YouCompleteMe : <https://github.com/ycm-core/YouCompleteMe>.
+ - Ultisnips : <https://github.com/SirVer/ultisnips>.
+ - Snippets : <https://github.com/honza/vim-snippets>.
+
+## Shortcuts
+ - F6 to toggle NERDtree window
+ - F7 to toggle on and off the Syntastic window.
+ - F8 to toggle on and off the TagList 
+
+
+
+
+
