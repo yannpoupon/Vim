@@ -1,14 +1,26 @@
 # Vim Config
-=============
 
-File to configurate vim.
+## Files to configurate vim.
 
- - Copy _vim to ~/.vim et _vimrc to ~/.vimrc.
+ - Copy _vim to ~/.vim
+ - 
+ - Copy _vimrc to ~/.vimrc
 
------------------------------
-You will need to have cmake installed and python3 for the following.
+## Requirements
 
- - Run the following if you have the requirement :
+| Compiler | Current Min |
+|-|-|
+| GCC | 8 |
+| Clang | 7 |
+| MSVC | 15.7 (VS 2017) |
+| Python | 3.6.0 |
+
+YCM requires CMake 3.13 or greater. If your CMake is too old, you may be able to
+simply `pip install --user cmake` to get a really new version.
+
+
+## Activating YCM
+
 ```
 $ cd ~/.vim/bundle/YouCompleteMe
 $ python3 ./install.py --all
