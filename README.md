@@ -41,16 +41,16 @@ Configuration
 -------
 ## Plugins
 
- - NERDTree : <https://github.com/preservim/nerdtree>.
- - NERDCommenter : <https://github.com/preservim/nerdcommenter>.
- - TagList : <https://github.com/vim-scripts/taglist.vim>.
- - Rainbow bracket : <https://github.com/frazrepo/vim-rainbow>.
  - Airline : <https://github.com/vim-airline/vim-airline>.
  - gitGutter : <https://github.com/airblade/vim-gitgutter>.
- - Syntastic : <https://github.com/scrooloose/syntastic>.
- - YouCompleteMe : <https://github.com/ycm-core/YouCompleteMe>.
- - Ultisnips : <https://github.com/SirVer/ultisnips>.
+ - NERDCommenter : <https://github.com/preservim/nerdcommenter>.
+ - NERDTree : <https://github.com/preservim/nerdtree>.
+ - Rainbow bracket : <https://github.com/frazrepo/vim-rainbow>.
  - Snippets : <https://github.com/honza/vim-snippets>.
+ - Syntastic : <https://github.com/scrooloose/syntastic>.
+ - TagList : <https://github.com/vim-scripts/taglist.vim>.
+ - Ultisnips : <https://github.com/SirVer/ultisnips>.
+ - YouCompleteMe : <https://github.com/ycm-core/YouCompleteMe>.
 
 ## Shortcuts
  - F6 to toggle NERDtree window
