@@ -4,7 +4,7 @@ Contents
 --------
 - [Installation](#installation)
     - [Requirements](#requirements)
-    - [What to do](#what-to-do)
+    - [What to do on Linux](#what-to-do-on-linux)
 - [Configuration](#configuration)
     - [Plugins](#plugins)
     - [Shortcuts](#shortcuts)
